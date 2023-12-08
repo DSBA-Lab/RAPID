@@ -1,0 +1,27 @@
+*.pkl
+*.json
+*.log
+*_parser
+*.bin
+*.tar.gz
+*.gz
+*.npz
+*.csv
+*_0.2
+*_0.3
+*_0.5
+*.txt
+
+# !processed_data/*/*/results/*.pkl
+dataset/
+processed_data/*/
+
+# Ignore everything in logAD/dataset/LAnoBERT_split
+dataset/LAnoBERT_split/
+
+# logAD/logbert/output
+logbert/output/
+
+final_bert_model/
+
+__pycache__/
