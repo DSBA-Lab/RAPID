@@ -6,7 +6,7 @@
 
 This repository is the official implementation of "RAPID".
 
-![RAPID Architecture](img/RAPID_Main.png)
+![RAPID Architecture](img/RAPID_main.png)
 
 ```
 RAPID/
